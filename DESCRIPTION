@@ -1,0 +1,13 @@
+Package: shinyKnobs
+Title: A collection of knobs for R Shiny
+Version: 0.0.1
+Authors@R: 
+    person(given = "Patrice",
+           family = "Cote",
+           role = c("aut", "cre"),
+           email = "pat@patrice.com")
+Description: A collection of input knobs for shiny.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.0.1
