@@ -2,3 +2,4 @@
 * text=auto
 * linguist-vendor
 *.R linguist-vendored=false
+*.js linguist-language=R
