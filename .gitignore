@@ -5,3 +5,5 @@
 .DS_Store
 .RData
 R/NEWS.html
+cran-comments.md
+CRAN-RELEASE

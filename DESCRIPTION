@@ -1,12 +1,11 @@
 Package: shinyKnobs
 Title: A Collection of Knobs for R Shiny
-Version: 0.0.1
-Authors@R: 
-    person(given = "Patrice",
-           family = "Cote",
-           role = c("aut", "cre"),
-           email = "pat@patricecote.com")
-Description: A collection of input knobs for shiny.
+Version: 0.1.0
+Authors@R: c(
+    person("Patrice", "Cote", role = c("aut", "cre"), email = "pat@patricecote.com"),
+    person("Chris", "Johson", role = c("aut", "cph"), comment = "precision-inputs")
+    )
+Description: A collection of highly configurable, touch-enabled knob input controls for 'Shiny' applications.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
@@ -14,4 +13,5 @@ RoxygenNote: 7.0.1
 Imports:
   shiny,
   htmltools
-
+URL: https://github.com/cotepat/shinyKnobs
+BugReports: https://github.com/cotepat/shinyKnobs/issues

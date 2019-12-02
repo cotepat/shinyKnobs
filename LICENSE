@@ -1,10 +1,2 @@
 YEAR: 2019
-COPYRIGHT HOLDER: Patrice Cote
-
-The shinyKnobs package includes other open source software components. The following
-is a list of these components (full copies of the license agreements used by
-these components are included below):
-
-  - Precision-inputs, https://github.com/jhnsnc/precision-inputs
-
-
+COPYRIGHT HOLDER: Patrice Cote, Chris Johnson

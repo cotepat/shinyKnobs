@@ -1,3 +1,3 @@
-# shinyKnobs 0.0.1
+# shinyKnobs 0.1.0
 
 Initial release!

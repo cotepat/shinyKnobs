@@ -49,7 +49,7 @@ touchKnobInput(
 
 \item{wheelResistance}{The amount of resistance to value change on mouse wheel scroll. Higher value means more precision, and the mouse wheel will be less effective at changing the input's value. (0 to 100)}
 
-\item{globalRatePolicy}{Rate policy determining the behavior of output value events. NULL will output values in realtime, 'debounce' will output values once the knob stops moving, 'throttle' will output values while the knob is moving but only at a certain frequency (controlled with ratePolicyDelay). This setting will affect every touchKnobInput in the project.}
+\item{globalRatePolicy}{Rate policy determining the behavior of output value events. NULL will output values in real-time, 'debounce' will output values once the knob stops moving, 'throttle' will output values while the knob is moving but only at a certain frequency (controlled with ratePolicyDelay). This setting will affect every touchKnobInput in the project.}
 
 \item{globalRatePolicyDelay}{Delay to use when globalRatePolicy is set to 'throttle' or 'debounce'. This setting will affect every touchKnobInput in the project.}
 }
