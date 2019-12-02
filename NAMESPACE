@@ -2,3 +2,7 @@
 
 export(touchGripKnobInput)
 export(touchKnobInput)
+importFrom(htmltools,tags)
+importFrom(shiny,addResourcePath)
+importFrom(shiny,singleton)
+importFrom(shiny,tagList)
