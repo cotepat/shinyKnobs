@@ -1,5 +1,5 @@
 Package: shinyKnobs
-Title: A collection of knobs for R Shiny
+Title: A Collection of Knobs for R Shiny
 Version: 0.0.1
 Authors@R: 
     person(given = "Patrice",
