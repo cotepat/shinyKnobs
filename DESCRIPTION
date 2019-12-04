@@ -1,9 +1,9 @@
 Package: shinyKnobs
 Title: A Collection of Knobs for R Shiny
-Version: 0.1.0
+Version: 0.1.1
 Authors@R: c(
     person("Patrice", "Cote", role = c("aut", "cre"), email = "pat@patricecote.com"),
-    person("Chris", "Johson", role = c("aut", "cph"), comment = "precision-inputs")
+    person("Chris", "Johnson", role = c("aut", "cph"), comment = "precision-inputs")
     )
 Description: A collection of highly configurable, touch-enabled knob input controls for 'Shiny' applications.
 License: MIT + file LICENSE
