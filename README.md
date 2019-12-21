@@ -1,5 +1,5 @@
 # shinyKnobs
- A collection of knob inputs for Shiny
+A Collection of Knob Inputs for 'shiny'
 
 ## touchKnobInput and touchGripKnobInput
 

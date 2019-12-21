@@ -1,11 +1,11 @@
 Package: shinyKnobs
-Title: A Collection of Knobs for R Shiny
-Version: 0.1.1
+Title: A Collection of Knob Inputs for 'shiny'
+Version: 0.1.2
 Authors@R: c(
     person("Patrice", "Cote", role = c("aut", "cre"), email = "pat@patricecote.com"),
     person("Chris", "Johnson", role = c("aut", "cph"), comment = "precision-inputs")
     )
-Description: A collection of highly configurable, touch-enabled knob input controls for 'Shiny' applications.
+Description: A collection of highly configurable, touch-enabled knob input controls for 'shiny'. These components can be styled to fit in perfectly in any app, and allow users to set precise values through many input modalities. Users can touch-and-drag, click-and-drag, scroll their mouse wheel, double click, or use keyboard input.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true

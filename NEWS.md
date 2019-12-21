@@ -4,4 +4,8 @@ Initial release!
 
 # shinyKnobs 0.1.1
 
-Fixed a typo in Description
+Fix a typo in Description
+
+# shinyKnobs 0.1.2
+
+Fix DESCRIPTION after CRAN submission feedback
