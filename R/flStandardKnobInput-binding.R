@@ -66,7 +66,7 @@ touchKnobInput <- function(inputId,
                                 globalRatePolicy = NULL,
                                 globalRatePolicyDelay = 500) {
 
-  addResourcePath("www", system.file("www/", package = "flKnobInputs"))
+  addResourcePath("www", system.file("www/", package = "shinyKnobs"))
 
 tagList(
     singleton(tags$head(

@@ -1,6 +1,6 @@
 Package: shinyKnobs
 Title: A Collection of Knob Inputs for 'shiny'
-Version: 0.1.2
+Version: 0.1.3
 Authors@R: c(
     person("Patrice", "Cote", role = c("aut", "cre"), email = "pat@patricecote.com"),
     person("Chris", "Johnson", role = c("aut", "cph"), comment = "precision-inputs")
